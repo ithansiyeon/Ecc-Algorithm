@@ -60,7 +60,7 @@
 </table>
 
 ### 📑 Role & Member
-table>
+<table>
     <tr>
         <th>팀원</th>
         <th>역할</th>
