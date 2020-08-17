@@ -39,6 +39,10 @@
         <th>개발도구</th>
         <th colspan="3">Matlab</th>
     </tr>
+    <tr>
+        <th>사용기술</th>
+        <th colspan="3">Matlab 콘솔</th>
+    </tr>
 </table>
 
 ### :calendar: Schedule
