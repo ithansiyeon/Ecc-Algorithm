@@ -1,4 +1,4 @@
-# :two_hearts: ECC Project
+# :lock: ECC Project
 
 <center><img src="https://user-images.githubusercontent.com/66079830/90397894-827a5d00-e0d3-11ea-9b71-ffeed0761cbe.png" width="700px" height="300px"></center>
     
