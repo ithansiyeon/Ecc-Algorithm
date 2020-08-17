@@ -42,7 +42,7 @@
 </table>
 
 ### Schedule
-<center><img src="https://user-images.githubusercontent.com/66079830/90397894-827a5d00-e0d3-11ea-9b71-ffeed0761cbe.png" width="700px" height="500px"></center>
+<center><img src="https://user-images.githubusercontent.com/66079830/89960517-36b25880-dc7a-11ea-94f8-bd76d2685ddd.png" width="700px" height="500px"></center>
 
 
 ### 📼 Appearance
