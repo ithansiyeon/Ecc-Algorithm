@@ -1,4 +1,4 @@
-# :lemon: Center-Management-System
+# :lemon: ECC Project
 
 <center><img src="https://user-images.githubusercontent.com/66079830/85929121-3853d700-b8ed-11ea-86a3-cd290f643cb7.jpg" width="700px" height="500px"></center>
     
