@@ -53,8 +53,8 @@
         <th colspan="4">코드</th>
     </tr>
     <tr>
-        <th colspan="4"><img width="600"
-                src="https://user-images.githubusercontent.com/66079830/90399618-32e96080-e0d6-11ea-9207-fa88ec97f5da.gif">
+        <th colspan="4"><img width="740"
+                src="https://user-images.githubusercontent.com/66079830/90400057-d89ccf80-e0d6-11ea-9bfd-3a3f596fe6bc.gif">
         </th>
     </tr>
 </table>
