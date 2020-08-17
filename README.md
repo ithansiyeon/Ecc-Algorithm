@@ -50,7 +50,7 @@
 
 <table>
     <tr>
-        <th colspan="4">코드</th>
+        <th colspan="4">구현 코드</th>
     </tr>
     <tr>
         <th colspan="4"><img width="740"
