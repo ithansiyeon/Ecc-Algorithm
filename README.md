@@ -20,7 +20,7 @@
     </tr>
     <tr>
         <th>프로젝트 개요</th>
-        <th>회원 관리 프로그램</th>
+        <th>ECC 암복화 알고리즘</th>
         <th>개발환경&nbsp;</th>
         <th>Windows10</th>
     </tr>
