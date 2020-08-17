@@ -1,6 +1,6 @@
 # :lemon: ECC Project
 
-<center><img src="https://user-images.githubusercontent.com/66079830/85929121-3853d700-b8ed-11ea-86a3-cd290f643cb7.jpg" width="700px" height="500px"></center>
+<center><img src="https://user-images.githubusercontent.com/66079830/90397894-827a5d00-e0d3-11ea-9b71-ffeed0761cbe.png" width="700px" height="500px"></center>
     
 ### 👋 Introduction
 <table>
