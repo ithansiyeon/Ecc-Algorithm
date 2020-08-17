@@ -1,6 +1,6 @@
 # :lemon: ECC Project
 
-<center><img src="https://user-images.githubusercontent.com/66079830/90397894-827a5d00-e0d3-11ea-9b71-ffeed0761cbe.png" width="700px" height="500px"></center>
+<center><img src="https://user-images.githubusercontent.com/66079830/90397894-827a5d00-e0d3-11ea-9b71-ffeed0761cbe.png" width="700px" height="300px"></center>
     
 ### 👋 Introduction
 <table>
@@ -41,40 +41,20 @@
     </tr>
 </table>
 
-### Schedule
-<center><img src="https://user-images.githubusercontent.com/66079830/89960517-36b25880-dc7a-11ea-94f8-bd76d2685ddd.png" width="700px" height="500px"></center>
+### :calendar: Schedule
+<center><img src="https://user-images.githubusercontent.com/66079830/89960517-36b25880-dc7a-11ea-94f8-bd76d2685ddd.png" width="740px" height="650px"></center>
 
 
 ### 📼 Appearance
-콘솔로 구현한 회원 관리 시스템 입니다.
+매트랩으로 구현한 ECC 코드입니다.
 
 <table>
     <tr>
-        <th colspan="4">Task</th>
+        <th colspan="4">코드</th>
     </tr>
     <tr>
         <th colspan="4"><img width="600"
-                src="https://user-images.githubusercontent.com/66079830/85919690-a5914900-b8a8-11ea-9849-4d3ca500813f.jpg">
-        </th>
-    </tr>
-    <tr>
-        <th>Admin</th>
-        <th>Teacher</th>
-        <th>Student</th>
-        <th>Nonmember</th>
-    </tr>
-    <tr>
-        <th><img width="266"
-                src="https://user-images.githubusercontent.com/66079830/85919479-5d712700-b8a6-11ea-9043-8ddb87532e19.gif">
-        </th>
-        <th><img width="266"
-                src="https://user-images.githubusercontent.com/66079830/85919538-e5efc780-b8a6-11ea-8422-4c1a38a741e0.gif">
-        </th>
-        <th><img width="266"
-                src="https://user-images.githubusercontent.com/66079830/85919534-d7091500-b8a6-11ea-85b3-149d091c8e5d.gif">
-        </th>
-        <th><img width="266"
-                src="https://user-images.githubusercontent.com/66079830/85919534-d7091500-b8a6-11ea-85b3-149d091c8e5d.gif">
+                src="https://user-images.githubusercontent.com/66079830/90399618-32e96080-e0d6-11ea-9207-fa88ec97f5da.gif">
         </th>
     </tr>
 </table>
