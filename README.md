@@ -48,7 +48,7 @@
 ### 📼 Appearance
 매트랩으로 구현한 ECC 코드입니다.
 
-<table>
+<table class = "striped hover">
     <tr>
         <th colspan="4">코드</th>
     </tr>
