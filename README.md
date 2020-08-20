@@ -12,7 +12,7 @@
     </tr>
     <tr>
         <th>프로젝트 성격</th>
-        <th>Matlab 암복호화  알고리즘</th>
+        <th>정보암호화 프로젝트</th>
         <th>개발인원</th>
         <th>팀 / 4명<br>
             (<a href="https://github.com/ithansiyeon?tab=repositories" target="_blank">한시연</a>｜강주연｜서지은｜전호진)
