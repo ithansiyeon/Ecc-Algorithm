@@ -15,7 +15,7 @@
         <th>정보암호화 프로젝트</th>
         <th>개발인원</th>
         <th>팀 / 4명<br>
-            (<a href="https://github.com/ithansiyeon?tab=repositories" target="_blank">한시연</a>｜강주연｜서지은｜전호진)
+            (<a href="https://github.com/ithansiyeon" target="_blank">한시연</a>｜강주연｜서지은｜전호진)
         </th>
     </tr>
     <tr>
