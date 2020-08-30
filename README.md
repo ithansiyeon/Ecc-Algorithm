@@ -1,6 +1,6 @@
 # :lock: ECC Project
 
-<center><img src="https://user-images.githubusercontent.com/66079830/90397894-827a5d00-e0d3-11ea-9b71-ffeed0761cbe.png" width="700px" height="300px"></center>
+<center><img src="https://user-images.githubusercontent.com/66079830/91664470-73ab9580-eb2a-11ea-9a3b-640fb8d71ff6.png" width="700px" height="300px"></center>
     
 ### 👋 Introduction
 <table>
