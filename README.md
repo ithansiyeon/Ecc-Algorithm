@@ -39,7 +39,7 @@
     </tr>
     <tr>
         <th>사용기술</th>
-        <th colspan="3">Matlab 콘솔</th>
+        <th colspan="3">Matlab </th>
     </tr>
 </table>
 
