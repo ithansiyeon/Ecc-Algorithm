@@ -62,7 +62,7 @@
 </table>
 
 ### :sparkles: Program Improvement Plan
-https://user-images.githubusercontent.com/66079830/92277132-48abb200-ef2d-11ea-9037-ba5d60858b5c.png
+<img src = "https://user-images.githubusercontent.com/66079830/92277132-48abb200-ef2d-11ea-9037-ba5d60858b5c.png">
 
 ### 📑 Role & Member
 <table>
