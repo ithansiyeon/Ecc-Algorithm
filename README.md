@@ -1,6 +1,6 @@
 # :lock: ECC Project
 
-<center><img src="https://user-images.githubusercontent.com/66079830/91664470-73ab9580-eb2a-11ea-9a3b-640fb8d71ff6.png" width="700px" height="300px"></center>
+<center><img src="https://user-images.githubusercontent.com/66079830/91664470-73ab9580-eb2a-11ea-9a3b-640fb8d71ff6.png" width="700px"></center>
     
 ### 👋 Introduction
 <table>
@@ -62,7 +62,7 @@
 </table>
 
 ### :sparkles: Program Improvement Plan
-<img src = "https://user-images.githubusercontent.com/66079830/92277132-48abb200-ef2d-11ea-9037-ba5d60858b5c.png">
+<img width="700px" src = "https://user-images.githubusercontent.com/66079830/92277132-48abb200-ef2d-11ea-9037-ba5d60858b5c.png">
 
 ### 📑 Role & Member
 <table>
